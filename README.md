@@ -2,6 +2,9 @@
 
 A full-stack web application to manage team tasks, track progress, and handle user authentication.
 
+#Link
+https://frontend-production-40669.up.railway.app/login
+
 ## 🚀 Features
 
 * User authentication (login/signup)
@@ -80,13 +83,18 @@ JWT_SECRET=your_secret_key
 * GET `/api/tasks` → Get all tasks
 * POST `/api/tasks` → Create task
 
-## 📸 Screenshots
+## 📸 Screenshot
+<img width="498" height="500" alt="image" src="https://github.com/user-attachments/assets/ac8f8565-ddad-4236-855b-93ffebeb7e14" />
+<img width="1466" height="869" alt="image" src="https://github.com/user-attachments/assets/0626c560-4cdf-47aa-8e96-62fb8ed6ecdb" />
+<img width="1466" height="869" alt="image" src="https://github.com/user-attachments/assets/13fd68b8-3560-433a-a882-8f3c7ca7373c" />
+<img width="1466" height="869" alt="image" src="https://github.com/user-attachments/assets/f7405096-d6b7-47f7-a6ef-c57584cd38b4" />
 
-(Add screenshots here if required)
+
+
 
 ## 👨‍💻 Author
 
-* Sayed Jary Abbas
+* Jary Abbas
 
 ## 📌 Notes
 
